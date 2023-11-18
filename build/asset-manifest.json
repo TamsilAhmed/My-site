@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.32a19bd8.css",
+    "main.js": "/portfolio/static/js/main.75e2cdea.js",
+    "static/media/QA1.jpg": "/portfolio/static/media/QA1.a6362e8033ce121698b5.jpg",
+    "static/media/Spicejet.png": "/portfolio/static/media/Spicejet.9c63a3a7982cbd5af68b.png",
+    "static/media/Tamsil Ahmed.pdf": "/portfolio/static/media/Tamsil Ahmed.8a224e9356996635f0ca.pdf",
+    "static/media/BestBuy.jpg": "/portfolio/static/media/BestBuy.194f5e20737490b9b100.jpg",
+    "static/media/exp.jpeg": "/portfolio/static/media/exp.abe13ce9fb204f3debc7.jpeg",
+    "static/media/Store.jpg": "/portfolio/static/media/Store.081fba72131cad8107a5.jpg",
+    "static/media/skill.jpg": "/portfolio/static/media/skill.9bb32ffb76352eff3f87.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.32a19bd8.css.map": "/portfolio/static/css/main.32a19bd8.css.map",
+    "main.75e2cdea.js.map": "/portfolio/static/js/main.75e2cdea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a19bd8.css",
+    "static/js/main.75e2cdea.js"
+  ]
+}
