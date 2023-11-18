@@ -1,5 +1,5 @@
 {
-  "homepage" :"https://krishnamoorthy-k07.github.io/portfolio/",
+  
   "name": "my-website",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "npm start",
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
