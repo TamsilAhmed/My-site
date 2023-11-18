@@ -1,16 +1,16 @@
 import React from 'react';
 import { Link } from 'react-scroll';
 import './TopContent.css'
-import cvUrl from '../../assets/Resume(Org).pdf';
+import cvUrl from '../../assets/Tamsil Ahmed.pdf';
 
 function TopContent() {
     
     return (
         <div className='topContent'>
             <div className='topContent__container'>
-                <h1>Krishnamoorthy K</h1>
-                <p>A Full-Stack Developer</p>
-                <a href={cvUrl} download = 'Resume(Org).pdf'>
+                <h1>Tamsil Ahmed</h1>
+                <p>A Software Tester</p>
+                <a href={cvUrl} download = 'Resume.pdf'>
                     <button className='topContent__downloadButton'>Download CV</button>
                 </a>
                 <Link to='projects' smooth ={true} duration={500}>

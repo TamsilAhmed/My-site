@@ -4,12 +4,12 @@ import './Header.css'
 
 
 function Header() {
-    const recipientEmail = "krishnamoorthy.k07@outlook.com";
+    const recipientEmail = "tamsilahmedbe@gmail.com";
     return (
         <div className='header'>
    
             <div className='header__left'>
-                <h1 className=''>Develop<span>er</span></h1>
+                <h1 className=''>QA Test<span>er</span></h1>
             </div>
             <div className='header__right'>
                 <Link to='about' smooth={true} duration={500}>

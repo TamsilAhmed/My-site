@@ -3,34 +3,34 @@ import Project from "../Project/Project";
 import "../ProjectContainer/ProjectContainer.css"
 import { Element } from "react-scroll";
 
-import Weather from '../../assets/weather-app.png'
-import PixelArt from '../../assets/Pics Art Generator.png'
-import Flip from '../../assets/Flip Coin.png'
+import BestBuy from '../../assets/BestBuy.jpg'
+import Spicejet from '../../assets/Spicejet.png'
+import Store from '../../assets/Store.jpg'
 
 const ProjectContainer = () => {
   
 
   const projects = [
     {
-      img: Weather,
-      title: "Weather-App",
+      img: BestBuy,
+      title: "E-Commerce Automation",
       desc:
-        "A straightforward weather app that displays local weather information",
-      link: "https://krishnamoorthy-k07.github.io/weather.github.io/",
+        "Java Automation Testing of E - Commerce Project",
+      link: "https://github.com/TamsilAhmed/E-Commerce-Project.git",
     },
     {
-      img: PixelArt,
-      title: "Pixel Art Generator",
+      img: Spicejet,
+      title: "Flight booking Automation",
       desc:
-        "An online tool for creating simple pixel art.",
-      link: "https://krishnamoorthy-k07.github.io/pixel-art-generator.github.io/",
+        "Java Automation Testing of Flight booking Website.",
+      link: "https://github.com/TamsilAhmed/Spicejet-FlightBooking.git",
     },
     {
-      img: Flip,
-      title: "A Flip Coin Game",
+      img: Store,
+      title: "E-Commerce Automation",
       desc:
-        "A simple flip-a-coin web application to make life easier.",
-      link: "https://krishnamoorthy-k07.github.io/flip-a-coin/",
+        "Java Automation Testing of E-Commerce Website.",
+      link: "https://github.com/TamsilAhmed/At-task.git",
     },
     
 

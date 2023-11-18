@@ -14,14 +14,14 @@ const Contact = () => {
       <h1>Contact</h1>
       <div className="contact__container">
         <p>
-          Email : <span>krishnamoorthy.k07@outlook.com</span>
+          Email : <span>tamsilahmedbe@gmail.com</span>
         </p>
         <p>
-          Github Username : <span>@krishnamoorthy.k07</span>
+          Github Username : <span>TamsilAhmed</span>
         </p>
         <div className="contact__icons">
           <a
-            href="https://www.linkedin.com/in/krishnamoorthy-k-9497911b1/"
+            href="https://www.linkedin.com/in/tamsilahmed/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -30,7 +30,7 @@ const Contact = () => {
             </IconButton>
           </a>
           <a
-            href="https://github.com/Krishnamoorthy-K07?tab=repositories/"
+            href="https://github.com/TamsilAhmed?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -39,7 +39,7 @@ const Contact = () => {
             </IconButton>
           </a>
           <a
-            href="https://www.instagram.com/krishnamoorthy_07/"
+            href="https://www.instagram.com/tamsil_ahmed"
             target="_blank"
             rel="noopener noreferrer"
           >

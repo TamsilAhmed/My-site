@@ -34,29 +34,30 @@ export default function CustomizedTimeline() {
           <Typography variant="h6" component="span">
             B.E- Mechanical
           </Typography>
-          <Typography display={'inline-flex'}>Government College Of Engineering -Tirunelveli</Typography>
+          <Typography display={'inline-flex'}>University College Of Engineering - Arni</Typography>
         </TimelineContent>
       </TimelineItem>
       <TimelineItem>
         <TimelineOppositeContent
           sx={{ m: 'auto 0' }}
+          align="right"
           variant="body2"
-          color="white"
+          color= "white"
         >
-          NOV-2021 - FEB 2022
+          DEC 2022 - MAY 2023 
         </TimelineOppositeContent>
         <TimelineSeparator>
           <TimelineConnector />
-          <TimelineDot color="primary">
+          <TimelineDot>
             <WorkIcon />
           </TimelineDot>
           <TimelineConnector />
         </TimelineSeparator>
-        <TimelineContent sx={{ py: '12px', px: 2 }}>
+        <TimelineContent sx={{ py: '12px', px: 2 }} >
           <Typography variant="h6" component="span">
-          System Engineer Trainee
+            Guvi - Automation Testing
           </Typography>
-          <Typography>Java,MySQL,Spring Boot</Typography>
+          <Typography display={'inline-flex'}> Java, Selinium & MySQL</Typography>
         </TimelineContent>
       </TimelineItem>
       <TimelineItem>
@@ -65,7 +66,7 @@ export default function CustomizedTimeline() {
           variant="body2"
           color="white"
         >
-          FEB 2022 Onwards
+          SEP 2023 Onwards
         </TimelineOppositeContent>
         <TimelineSeparator>
           <TimelineConnector />
@@ -76,9 +77,9 @@ export default function CustomizedTimeline() {
         </TimelineSeparator>
         <TimelineContent sx={{ py: '12px', px: 2 }}>
           <Typography variant="h6" component="span">
-          System Engineer
+           Intern
           </Typography>
-          <Typography>Java, Groovy, XSLT & PostgreSQL</Typography>
+          <Typography>Java</Typography>
         </TimelineContent>
       </TimelineItem>
       <TimelineItem>
@@ -100,7 +101,7 @@ export default function CustomizedTimeline() {
           <Typography variant="h6" component="span">
             Self-Learning
           </Typography>
-          <Typography>React, Node.js, Express.js</Typography>
+          <Typography>Cucumber with BDD Framework</Typography>
         </TimelineContent>
       </TimelineItem>
     </Timeline>

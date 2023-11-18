@@ -6,7 +6,7 @@ import ParticlesBack from '../Particles/ParticlesBack';
 function TopContainer() {
     return (
         <Element name='about' className='topContainer'>
-            <ParticlesBack />
+            
             <TopContent />
         </Element>
     );
